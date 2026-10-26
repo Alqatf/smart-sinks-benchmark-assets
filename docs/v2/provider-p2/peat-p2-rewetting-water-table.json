@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-p2-rewetting-water-table",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Rewetting water-table response governed evidence",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7793",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-rewetting-water-table-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.345381,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-rewetting-water-table-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.851503,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-rewetting-water-table-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.792581,
+      "variable_label": "drain-blocking status"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-rewetting-water-table-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.362633,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-rewetting-water-table-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.45316,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-rewetting-water-table-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.359541,
+      "variable_label": "drain-blocking status"
+    }
+  ],
+  "research_objective": "assess water-table recovery after drain blocking",
+  "research_theme": "Rewetting water-table response",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water-table depth",
+    "rainfall",
+    "drain-blocking status"
+  ]
+}

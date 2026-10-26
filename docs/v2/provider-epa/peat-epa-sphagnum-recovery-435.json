@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-sphagnum-recovery-435",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Sphagnum recovery conditions evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-sphagnum-recovery-435-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.943366,
+      "variable_label": "hydroperiod"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-sphagnum-recovery-435-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.904223,
+      "variable_label": "surface wetness"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-sphagnum-recovery-435-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.113816,
+      "variable_label": "vegetation condition"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-sphagnum-recovery-435-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.972708,
+      "variable_label": "hydroperiod"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-sphagnum-recovery-435-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.453477,
+      "variable_label": "surface wetness"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-sphagnum-recovery-435-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.771207,
+      "variable_label": "vegetation condition"
+    }
+  ],
+  "research_objective": "assemble environmental context for Sphagnum recovery",
+  "research_theme": "Sphagnum recovery conditions",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "hydroperiod",
+    "surface wetness",
+    "vegetation condition"
+  ]
+}

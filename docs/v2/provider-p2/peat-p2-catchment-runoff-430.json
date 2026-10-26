@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-p2-catchment-runoff-430",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Catchment runoff response evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7793",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-catchment-runoff-430-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.219673,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-catchment-runoff-430-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.602989,
+      "variable_label": "runoff"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-catchment-runoff-430-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.59087,
+      "variable_label": "water-table response"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-catchment-runoff-430-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.658843,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-catchment-runoff-430-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.114633,
+      "variable_label": "runoff"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-catchment-runoff-430-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.362038,
+      "variable_label": "water-table response"
+    }
+  ],
+  "research_objective": "investigate peatland runoff response to rainfall events",
+  "research_theme": "Catchment runoff response",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "rainfall",
+    "runoff",
+    "water-table response"
+  ]
+}

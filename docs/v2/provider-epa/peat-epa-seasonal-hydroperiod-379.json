@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-seasonal-hydroperiod-379",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Seasonal hydroperiod comparison evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-seasonal-hydroperiod-379-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.476755,
+      "variable_label": "hydroperiod"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-seasonal-hydroperiod-379-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.665141,
+      "variable_label": "seasonal water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-seasonal-hydroperiod-379-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.108434,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-seasonal-hydroperiod-379-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.639289,
+      "variable_label": "hydroperiod"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-seasonal-hydroperiod-379-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.844046,
+      "variable_label": "seasonal water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-seasonal-hydroperiod-379-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.052341,
+      "variable_label": "rainfall"
+    }
+  ],
+  "research_objective": "compare source-labelled seasonal peatland water-regime records",
+  "research_theme": "Seasonal hydroperiod comparison",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "hydroperiod",
+    "seasonal water level",
+    "rainfall"
+  ]
+}

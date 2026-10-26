@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-restoration-baseline-403",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Restoration baseline condition evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-restoration-baseline-403-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.744355,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-restoration-baseline-403-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.719021,
+      "variable_label": "vegetation condition"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-restoration-baseline-403-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.06047,
+      "variable_label": "intervention status"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-restoration-baseline-403-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.037618,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-restoration-baseline-403-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.167665,
+      "variable_label": "vegetation condition"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-restoration-baseline-403-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.838113,
+      "variable_label": "intervention status"
+    }
+  ],
+  "research_objective": "establish a governed pre-restoration evidence baseline",
+  "research_theme": "Restoration baseline condition",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water level",
+    "vegetation condition",
+    "intervention status"
+  ]
+}

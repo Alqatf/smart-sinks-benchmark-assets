@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-carbon-stock-monitoring",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Carbon-stock monitoring context governed evidence",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-carbon-stock-monitoring-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.639521,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-carbon-stock-monitoring-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.406885,
+      "variable_label": "peat depth context"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-carbon-stock-monitoring-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.157471,
+      "variable_label": "land condition"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-carbon-stock-monitoring-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.557113,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-carbon-stock-monitoring-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.734927,
+      "variable_label": "peat depth context"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-carbon-stock-monitoring-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.074501,
+      "variable_label": "land condition"
+    }
+  ],
+  "research_objective": "support governed carbon-stock monitoring without exposing raw sensitive locations",
+  "research_theme": "Carbon-stock monitoring context",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water level",
+    "peat depth context",
+    "land condition"
+  ]
+}

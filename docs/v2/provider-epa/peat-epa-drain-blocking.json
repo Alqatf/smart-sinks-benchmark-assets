@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-drain-blocking",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Drain-blocking intervention evidence governed evidence",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-drain-blocking-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.742308,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-drain-blocking-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.92483,
+      "variable_label": "intervention date"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-drain-blocking-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.591411,
+      "variable_label": "monitoring zone"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-drain-blocking-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.013916,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-drain-blocking-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.658927,
+      "variable_label": "intervention date"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-drain-blocking-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.327598,
+      "variable_label": "monitoring zone"
+    }
+  ],
+  "research_objective": "verify governed evidence around drain-blocking interventions",
+  "research_theme": "Drain-blocking intervention evidence",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water-table depth",
+    "intervention date",
+    "monitoring zone"
+  ]
+}

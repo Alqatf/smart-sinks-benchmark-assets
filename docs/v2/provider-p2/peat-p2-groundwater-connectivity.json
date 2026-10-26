@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-p2-groundwater-connectivity",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Groundwater connectivity governed evidence",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7793",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-groundwater-connectivity-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.695524,
+      "variable_label": "groundwater head"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-groundwater-connectivity-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.159546,
+      "variable_label": "peat water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-groundwater-connectivity-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.984065,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-groundwater-connectivity-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.778258,
+      "variable_label": "groundwater head"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-groundwater-connectivity-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.616913,
+      "variable_label": "peat water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-groundwater-connectivity-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.512582,
+      "variable_label": "rainfall"
+    }
+  ],
+  "research_objective": "support analysis of peatland and groundwater connectivity",
+  "research_theme": "Groundwater connectivity",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "groundwater head",
+    "peat water level",
+    "rainfall"
+  ]
+}

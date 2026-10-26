@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-wildfire-susceptibility",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Peat wildfire susceptibility governed evidence",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-wildfire-susceptibility-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.132258,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-wildfire-susceptibility-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.960276,
+      "variable_label": "soil moisture"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-wildfire-susceptibility-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.380246,
+      "variable_label": "dry-spell duration"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-wildfire-susceptibility-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.943248,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-wildfire-susceptibility-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.837535,
+      "variable_label": "soil moisture"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-wildfire-susceptibility-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.702175,
+      "variable_label": "dry-spell duration"
+    }
+  ],
+  "research_objective": "support governed assessment of peat wildfire susceptibility",
+  "research_theme": "Peat wildfire susceptibility",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water-table depth",
+    "soil moisture",
+    "dry-spell duration"
+  ]
+}

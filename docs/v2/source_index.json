@@ -1,0 +1,1259 @@
+{
+  "asset_count": 125,
+  "catalog_asset_count": 40,
+  "public_base_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2",
+  "scenario_publication_count": 85,
+  "sources": [
+    {
+      "asset_id": "peat-epa-carbon-flux-context",
+      "bytes": 1793,
+      "data_source_id": "peat-epa-carbon-flux-context",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-flux-context.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-flux-context.json",
+      "sha256": "e9f9f32bbca3224d5b2ef29a0eb66cd8f60be7c2c58da81f96f98d63e68a1559"
+    },
+    {
+      "asset_id": "peat-epa-carbon-flux-context-365",
+      "bytes": 1818,
+      "data_source_id": "peat-epa-carbon-flux-context-365",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-flux-context-365.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-flux-context-365.json",
+      "sha256": "2ddcb081ca0d49404b8afac7db81a2b7caae89979abe4fd6469d04013ce8d9c0"
+    },
+    {
+      "asset_id": "peat-epa-carbon-flux-context-385",
+      "bytes": 1818,
+      "data_source_id": "peat-epa-carbon-flux-context-385",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-flux-context-385.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-flux-context-385.json",
+      "sha256": "bc3f3797b004b61949b051d50af6ffc2ac90ccb6384fcc2ec39d040b474a0985"
+    },
+    {
+      "asset_id": "peat-epa-carbon-flux-context-405",
+      "bytes": 1816,
+      "data_source_id": "peat-epa-carbon-flux-context-405",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-flux-context-405.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-flux-context-405.json",
+      "sha256": "5a17411ef5f74300aad17841e96d6ff32d6b0f10b0d907a6c6eac329f5f94598"
+    },
+    {
+      "asset_id": "peat-epa-carbon-flux-context-425",
+      "bytes": 1815,
+      "data_source_id": "peat-epa-carbon-flux-context-425",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-flux-context-425.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-flux-context-425.json",
+      "sha256": "181d2e516bc2328c846f9fb223d2eb64acd2242aef749a9f5a2c577db83aeb7f"
+    },
+    {
+      "asset_id": "peat-epa-carbon-stock-monitoring",
+      "bytes": 1827,
+      "data_source_id": "peat-epa-carbon-stock-monitoring",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-stock-monitoring.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-stock-monitoring.json",
+      "sha256": "468326ea50206d3f643d96887635814e307bc3c3b8e9ee47362f5a1fb86144c1"
+    },
+    {
+      "asset_id": "peat-epa-carbon-stock-monitoring-357",
+      "bytes": 1851,
+      "data_source_id": "peat-epa-carbon-stock-monitoring-357",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-stock-monitoring-357.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-stock-monitoring-357.json",
+      "sha256": "6615188f656b1495c0026f7cb2b79cb44d7b4c792642167f0450d2050f22895a"
+    },
+    {
+      "asset_id": "peat-epa-carbon-stock-monitoring-377",
+      "bytes": 1850,
+      "data_source_id": "peat-epa-carbon-stock-monitoring-377",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-stock-monitoring-377.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-stock-monitoring-377.json",
+      "sha256": "232d399269ff42836c00a242370ea27b448ad96a3bd10444ac5abadc2a9df5ca"
+    },
+    {
+      "asset_id": "peat-epa-carbon-stock-monitoring-397",
+      "bytes": 1849,
+      "data_source_id": "peat-epa-carbon-stock-monitoring-397",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-stock-monitoring-397.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-stock-monitoring-397.json",
+      "sha256": "cf494abbc36491059d162ec5dd5eb7f0b7145fc11f087827cc420013e9d44042"
+    },
+    {
+      "asset_id": "peat-epa-carbon-stock-monitoring-417",
+      "bytes": 1849,
+      "data_source_id": "peat-epa-carbon-stock-monitoring-417",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-carbon-stock-monitoring-417.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-carbon-stock-monitoring-417.json",
+      "sha256": "0d9b557cc0101bbeebae6589b7e8ab8b635ffd7bf5e9972e01bc052c5b11f963"
+    },
+    {
+      "asset_id": "peat-epa-catchment-runoff",
+      "bytes": 1713,
+      "data_source_id": "peat-epa-catchment-runoff",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-catchment-runoff.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-catchment-runoff.json",
+      "sha256": "ba1a755b3e3ed535c4191c4500342d7f61e636dbb1db62c93b1dd9dcc8c2c38b"
+    },
+    {
+      "asset_id": "peat-epa-doc-export-risk",
+      "bytes": 1779,
+      "data_source_id": "peat-epa-doc-export-risk",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-doc-export-risk.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-doc-export-risk.json",
+      "sha256": "677edc9d5cbbfbf293351ac0cb995a19d35c052dc2aff7e0e918031175f22018"
+    },
+    {
+      "asset_id": "peat-epa-drain-blocking",
+      "bytes": 1770,
+      "data_source_id": "peat-epa-drain-blocking",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-drain-blocking.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-drain-blocking.json",
+      "sha256": "11e0f0bbceb68d8f5ba55ec3ff17149210d31feb483916a7de8c72f2e7765468"
+    },
+    {
+      "asset_id": "peat-epa-drought-drawdown",
+      "bytes": 1777,
+      "data_source_id": "peat-epa-drought-drawdown",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-drought-drawdown.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-drought-drawdown.json",
+      "sha256": "3f213f0cf46a624cb4517c87952fb4f2323cca6afafc1f254750165c067ea03e"
+    },
+    {
+      "asset_id": "peat-epa-erosion-risk",
+      "bytes": 1680,
+      "data_source_id": "peat-epa-erosion-risk",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-erosion-risk.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-erosion-risk.json",
+      "sha256": "8c175d4796226591f22bf4782da8a1c96c54a94aefdc55213d1f1ef4d5556933"
+    },
+    {
+      "asset_id": "peat-epa-groundwater-connectivity",
+      "bytes": 1785,
+      "data_source_id": "peat-epa-groundwater-connectivity",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-groundwater-connectivity.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-groundwater-connectivity.json",
+      "sha256": "378608ee27ea12357e2c813fafe49c2fa0f0116bdb1303787a282454beec91d6"
+    },
+    {
+      "asset_id": "peat-epa-habitat-condition",
+      "bytes": 1761,
+      "data_source_id": "peat-epa-habitat-condition",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-habitat-condition.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-habitat-condition.json",
+      "sha256": "aeb426139bbc0e77651c5f77316b89725e32834cc1caac6b4fe2c952b6c80c83"
+    },
+    {
+      "asset_id": "peat-epa-methane-hotspot",
+      "bytes": 1761,
+      "data_source_id": "peat-epa-methane-hotspot",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-methane-hotspot.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-methane-hotspot.json",
+      "sha256": "913f57ac08295deb18ba6dbb4b781f6f1e1b63bf12cf4f374ac0712848c749e8"
+    },
+    {
+      "asset_id": "peat-epa-peat-subsidence",
+      "bytes": 1765,
+      "data_source_id": "peat-epa-peat-subsidence",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-peat-subsidence.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-peat-subsidence.json",
+      "sha256": "52bfdec93b628aa677b082155659e1ab6c0eaa2f7d62077a46f62d0261f7d1bc"
+    },
+    {
+      "asset_id": "peat-epa-rainfall-response",
+      "bytes": 1698,
+      "data_source_id": "peat-epa-rainfall-response",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rainfall-response.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rainfall-response.json",
+      "sha256": "e5145b4640bb8cf6c9bebddffb7179e02d698408a2a6e47ba270c9c5c5eced82"
+    },
+    {
+      "asset_id": "peat-epa-rainfall-response-353",
+      "bytes": 1724,
+      "data_source_id": "peat-epa-rainfall-response-353",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rainfall-response-353.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rainfall-response-353.json",
+      "sha256": "492bc37458dc42ef67dd6a59768408045cb3c541223370ef368d5baaa359daae"
+    },
+    {
+      "asset_id": "peat-epa-rainfall-response-373",
+      "bytes": 1722,
+      "data_source_id": "peat-epa-rainfall-response-373",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rainfall-response-373.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rainfall-response-373.json",
+      "sha256": "6461ed534bdd88aca84eeb7ae7cae20992010608289826d9f71521cfb1eaa5cc"
+    },
+    {
+      "asset_id": "peat-epa-rainfall-response-393",
+      "bytes": 1724,
+      "data_source_id": "peat-epa-rainfall-response-393",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rainfall-response-393.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rainfall-response-393.json",
+      "sha256": "5098fe811664b4db39b19c9badc4a82737ec2062538b25c8a29d3ac4214cfb56"
+    },
+    {
+      "asset_id": "peat-epa-rainfall-response-413",
+      "bytes": 1724,
+      "data_source_id": "peat-epa-rainfall-response-413",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rainfall-response-413.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rainfall-response-413.json",
+      "sha256": "8074a7a4b32cbb4bf3c654da9cd8987fdf9b1df217803589b11ea025718e84e9"
+    },
+    {
+      "asset_id": "peat-epa-rainfall-response-433",
+      "bytes": 1724,
+      "data_source_id": "peat-epa-rainfall-response-433",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rainfall-response-433.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rainfall-response-433.json",
+      "sha256": "e4ba05f95a171c03d6021b431848c3f7ec160b576c140efa8b59a8af07847ba5"
+    },
+    {
+      "asset_id": "peat-epa-restoration-baseline",
+      "bytes": 1798,
+      "data_source_id": "peat-epa-restoration-baseline",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-restoration-baseline.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-restoration-baseline.json",
+      "sha256": "2a84ca92ed15678f574d52bc1aaf19aca0e930ccc3330b434f12e63e12987a99"
+    },
+    {
+      "asset_id": "peat-epa-restoration-baseline-363",
+      "bytes": 1822,
+      "data_source_id": "peat-epa-restoration-baseline-363",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-restoration-baseline-363.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-restoration-baseline-363.json",
+      "sha256": "7bbce987db2210705ff26a09271494ea3779512aed1974530766d9124fe631ea"
+    },
+    {
+      "asset_id": "peat-epa-restoration-baseline-383",
+      "bytes": 1822,
+      "data_source_id": "peat-epa-restoration-baseline-383",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-restoration-baseline-383.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-restoration-baseline-383.json",
+      "sha256": "341566c1cba02810790451819e682a0096698ad775f5d1365a78e37393778504"
+    },
+    {
+      "asset_id": "peat-epa-restoration-baseline-403",
+      "bytes": 1822,
+      "data_source_id": "peat-epa-restoration-baseline-403",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-restoration-baseline-403.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-restoration-baseline-403.json",
+      "sha256": "10dcca6f916ef74bde303186056d984568236b97317b61111850b1197df9aec2"
+    },
+    {
+      "asset_id": "peat-epa-restoration-baseline-423",
+      "bytes": 1823,
+      "data_source_id": "peat-epa-restoration-baseline-423",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-restoration-baseline-423.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-restoration-baseline-423.json",
+      "sha256": "ef45f1fec9f993ea3a5d460f4a959e9f3eab8980fdf35c23ea09d5b3827dcc4a"
+    },
+    {
+      "asset_id": "peat-epa-restoration-verification",
+      "bytes": 1852,
+      "data_source_id": "peat-epa-restoration-verification",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-restoration-verification.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-restoration-verification.json",
+      "sha256": "ed8c6ac5cec4880040e3e0365b731af7d94cb55c35206ae5a352f95387205d1d"
+    },
+    {
+      "asset_id": "peat-epa-rewetting-water-table",
+      "bytes": 1783,
+      "data_source_id": "peat-epa-rewetting-water-table",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rewetting-water-table.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rewetting-water-table.json",
+      "sha256": "725f1010699260fd97e2b136e4821ccc5d0d8d9e34a2eea41bb99280a9ef2b21"
+    },
+    {
+      "asset_id": "peat-epa-rewetting-water-table-361",
+      "bytes": 1812,
+      "data_source_id": "peat-epa-rewetting-water-table-361",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rewetting-water-table-361.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rewetting-water-table-361.json",
+      "sha256": "b51b91261dcbfc457e28ee06890be1abe6b73270129561e91fffe2e0b919d9c4"
+    },
+    {
+      "asset_id": "peat-epa-rewetting-water-table-381",
+      "bytes": 1809,
+      "data_source_id": "peat-epa-rewetting-water-table-381",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rewetting-water-table-381.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rewetting-water-table-381.json",
+      "sha256": "25b1152b1a0d09990de7dd7bed1fea75dbe44dd92ddf7b09b039d8e09eb702b9"
+    },
+    {
+      "asset_id": "peat-epa-rewetting-water-table-401",
+      "bytes": 1812,
+      "data_source_id": "peat-epa-rewetting-water-table-401",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rewetting-water-table-401.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rewetting-water-table-401.json",
+      "sha256": "3f4a805a0f49ea378765cd22ea7b58acfc17324f8a7fbd6dae32db32efa3720f"
+    },
+    {
+      "asset_id": "peat-epa-rewetting-water-table-421",
+      "bytes": 1812,
+      "data_source_id": "peat-epa-rewetting-water-table-421",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-rewetting-water-table-421.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-rewetting-water-table-421.json",
+      "sha256": "81fcf23ef64f2ef34d1088b48a2988cfbb8fe2767b45f95c0d39ebd5f273706f"
+    },
+    {
+      "asset_id": "peat-epa-seasonal-hydroperiod",
+      "bytes": 1775,
+      "data_source_id": "peat-epa-seasonal-hydroperiod",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-seasonal-hydroperiod.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-seasonal-hydroperiod.json",
+      "sha256": "0061522a4936a2076e7d07d42a8b44b5d5ed96b648e4b8b29cccdf455a9021a8"
+    },
+    {
+      "asset_id": "peat-epa-seasonal-hydroperiod-359",
+      "bytes": 1800,
+      "data_source_id": "peat-epa-seasonal-hydroperiod-359",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-seasonal-hydroperiod-359.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-seasonal-hydroperiod-359.json",
+      "sha256": "a590658c34bcea4de932ba9215425c3f333c221113cb0472d3088e7eecb3d22e"
+    },
+    {
+      "asset_id": "peat-epa-seasonal-hydroperiod-379",
+      "bytes": 1800,
+      "data_source_id": "peat-epa-seasonal-hydroperiod-379",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-seasonal-hydroperiod-379.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-seasonal-hydroperiod-379.json",
+      "sha256": "841a12a34c3d68150e03763e77d45a715e5cd1147a44ea7656aa44acb044b64e"
+    },
+    {
+      "asset_id": "peat-epa-seasonal-hydroperiod-399",
+      "bytes": 1800,
+      "data_source_id": "peat-epa-seasonal-hydroperiod-399",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-seasonal-hydroperiod-399.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-seasonal-hydroperiod-399.json",
+      "sha256": "d7e20a098c675fbc8ef3d6eb0f65bf2d46e0a297ef12d446413117bccb86194e"
+    },
+    {
+      "asset_id": "peat-epa-seasonal-hydroperiod-419",
+      "bytes": 1800,
+      "data_source_id": "peat-epa-seasonal-hydroperiod-419",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-seasonal-hydroperiod-419.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-seasonal-hydroperiod-419.json",
+      "sha256": "a43f0a62c6f4bbf2669a58def58993e44c8404062283a673514233577559eb3e"
+    },
+    {
+      "asset_id": "peat-epa-soil-moisture-anomaly",
+      "bytes": 1771,
+      "data_source_id": "peat-epa-soil-moisture-anomaly",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-soil-moisture-anomaly.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-soil-moisture-anomaly.json",
+      "sha256": "37a29842d00969385b13490320f834791e978f6ccde344b81ece2f504fa38261"
+    },
+    {
+      "asset_id": "peat-epa-soil-moisture-anomaly-351",
+      "bytes": 1796,
+      "data_source_id": "peat-epa-soil-moisture-anomaly-351",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-soil-moisture-anomaly-351.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-soil-moisture-anomaly-351.json",
+      "sha256": "b268c3e2a39c6c5b343bc731b15e6c1982d0fcbe70d0ad1a4ea08496c84c2f0c"
+    },
+    {
+      "asset_id": "peat-epa-soil-moisture-anomaly-371",
+      "bytes": 1796,
+      "data_source_id": "peat-epa-soil-moisture-anomaly-371",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-soil-moisture-anomaly-371.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-soil-moisture-anomaly-371.json",
+      "sha256": "fb9eba0b06d57da4cc42b4dcacaef1484a417e09fb8a773d7e329e055f8742f0"
+    },
+    {
+      "asset_id": "peat-epa-soil-moisture-anomaly-391",
+      "bytes": 1797,
+      "data_source_id": "peat-epa-soil-moisture-anomaly-391",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-soil-moisture-anomaly-391.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-soil-moisture-anomaly-391.json",
+      "sha256": "6c0b06f20c9570c1b1ac0b54e21b2a7047793363ae89d6c38f8cd5a29a15ab5d"
+    },
+    {
+      "asset_id": "peat-epa-soil-moisture-anomaly-411",
+      "bytes": 1797,
+      "data_source_id": "peat-epa-soil-moisture-anomaly-411",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-soil-moisture-anomaly-411.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-soil-moisture-anomaly-411.json",
+      "sha256": "99503a0dff8b60e81d5245a80eb8586d70076cef062738482dcd4e6ea1c9d969"
+    },
+    {
+      "asset_id": "peat-epa-soil-moisture-anomaly-431",
+      "bytes": 1796,
+      "data_source_id": "peat-epa-soil-moisture-anomaly-431",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-soil-moisture-anomaly-431.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-soil-moisture-anomaly-431.json",
+      "sha256": "f18bb98355932b77c1da514ecf360f1d2f0956d7aaa3bfaaeb13a143c12fc700"
+    },
+    {
+      "asset_id": "peat-epa-sphagnum-recovery",
+      "bytes": 1757,
+      "data_source_id": "peat-epa-sphagnum-recovery",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-sphagnum-recovery.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-sphagnum-recovery.json",
+      "sha256": "96286a35f997b265e1ce31ee787c6433b2eceba0feab1dd8bc5befd52d89e917"
+    },
+    {
+      "asset_id": "peat-epa-sphagnum-recovery-355",
+      "bytes": 1783,
+      "data_source_id": "peat-epa-sphagnum-recovery-355",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-sphagnum-recovery-355.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-sphagnum-recovery-355.json",
+      "sha256": "3c52d66c1964f141c4217708c8019c4e5712b2165c0fa7e0a6eb7e33b527f614"
+    },
+    {
+      "asset_id": "peat-epa-sphagnum-recovery-375",
+      "bytes": 1784,
+      "data_source_id": "peat-epa-sphagnum-recovery-375",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-sphagnum-recovery-375.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-sphagnum-recovery-375.json",
+      "sha256": "bc5bd9da761800e6f63b6eb5cbe3a9327771aa37954dfaba83da7fe6847a71c7"
+    },
+    {
+      "asset_id": "peat-epa-sphagnum-recovery-395",
+      "bytes": 1783,
+      "data_source_id": "peat-epa-sphagnum-recovery-395",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-sphagnum-recovery-395.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-sphagnum-recovery-395.json",
+      "sha256": "85c1edf54f4df8aaf68d918e1c411670b69cb082afa8e934815c762e98bc38f3"
+    },
+    {
+      "asset_id": "peat-epa-sphagnum-recovery-415",
+      "bytes": 1782,
+      "data_source_id": "peat-epa-sphagnum-recovery-415",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-sphagnum-recovery-415.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-sphagnum-recovery-415.json",
+      "sha256": "337ea4096ae6b1cd2d7dc51a5432bcf78936e8aa43b3d702a6230cae2b6d8f32"
+    },
+    {
+      "asset_id": "peat-epa-sphagnum-recovery-435",
+      "bytes": 1784,
+      "data_source_id": "peat-epa-sphagnum-recovery-435",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-sphagnum-recovery-435.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-sphagnum-recovery-435.json",
+      "sha256": "eaa63dad49efce738515fb3f27b900282f00bf7c9f2122603e5a4d78471f28de"
+    },
+    {
+      "asset_id": "peat-epa-vegetation-succession",
+      "bytes": 1808,
+      "data_source_id": "peat-epa-vegetation-succession",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-vegetation-succession.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-vegetation-succession.json",
+      "sha256": "bfe46064d6e27471b6bbe87b25b92219253999469cd536d74ee2c35a05e924e5"
+    },
+    {
+      "asset_id": "peat-epa-vegetation-succession-367",
+      "bytes": 1833,
+      "data_source_id": "peat-epa-vegetation-succession-367",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-vegetation-succession-367.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-vegetation-succession-367.json",
+      "sha256": "25e91d3a815bae46e8e374baf7965d7f8c4d5e1b862fccf144991ae0a4bd7c4a"
+    },
+    {
+      "asset_id": "peat-epa-vegetation-succession-387",
+      "bytes": 1833,
+      "data_source_id": "peat-epa-vegetation-succession-387",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-vegetation-succession-387.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-vegetation-succession-387.json",
+      "sha256": "b114b0ebd8d514c9b472dfd739e406b960b04b69578d15dc403d8269c772431c"
+    },
+    {
+      "asset_id": "peat-epa-vegetation-succession-407",
+      "bytes": 1833,
+      "data_source_id": "peat-epa-vegetation-succession-407",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-vegetation-succession-407.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-vegetation-succession-407.json",
+      "sha256": "36951020adb4d498fa8d11b80bfd87423a10677955310fa2adea09de33978568"
+    },
+    {
+      "asset_id": "peat-epa-vegetation-succession-427",
+      "bytes": 1833,
+      "data_source_id": "peat-epa-vegetation-succession-427",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-vegetation-succession-427.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-vegetation-succession-427.json",
+      "sha256": "b423fa3d8827ca4fc25383a50b0ac6bd0515971e3e3a071efe20de6718a59949"
+    },
+    {
+      "asset_id": "peat-epa-wildfire-susceptibility",
+      "bytes": 1814,
+      "data_source_id": "peat-epa-wildfire-susceptibility",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-wildfire-susceptibility.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-wildfire-susceptibility.json",
+      "sha256": "dd7901b8fce506b53191f579f693eb898eec81bda8858a93fa2076b7d87e72d6"
+    },
+    {
+      "asset_id": "peat-epa-wildfire-susceptibility-369",
+      "bytes": 1839,
+      "data_source_id": "peat-epa-wildfire-susceptibility-369",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-wildfire-susceptibility-369.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-wildfire-susceptibility-369.json",
+      "sha256": "cadc9b78e9a0ea4d1987de8f60725bdb921cdf621ea21bc83098345dde2fd3d6"
+    },
+    {
+      "asset_id": "peat-epa-wildfire-susceptibility-389",
+      "bytes": 1839,
+      "data_source_id": "peat-epa-wildfire-susceptibility-389",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-wildfire-susceptibility-389.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-wildfire-susceptibility-389.json",
+      "sha256": "7a4c509b2adc386034f9b729a0d1cbc10e81e66a5fcd27333cab74e59b6a4ee5"
+    },
+    {
+      "asset_id": "peat-epa-wildfire-susceptibility-409",
+      "bytes": 1839,
+      "data_source_id": "peat-epa-wildfire-susceptibility-409",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-wildfire-susceptibility-409.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-wildfire-susceptibility-409.json",
+      "sha256": "e5204d99383f25fec66cafc3061ae36950d7869dc4c4bd8a064d1bf2a605690b"
+    },
+    {
+      "asset_id": "peat-epa-wildfire-susceptibility-429",
+      "bytes": 1839,
+      "data_source_id": "peat-epa-wildfire-susceptibility-429",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7593",
+      "path": "provider-epa/peat-epa-wildfire-susceptibility-429.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-epa/peat-epa-wildfire-susceptibility-429.json",
+      "sha256": "a74dd43625ff536b54ee9cb071a32d8a52162fdf05e7089ea12a7c679a330631"
+    },
+    {
+      "asset_id": "peat-p2-carbon-flux-context",
+      "bytes": 1785,
+      "data_source_id": "peat-p2-carbon-flux-context",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-carbon-flux-context.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-carbon-flux-context.json",
+      "sha256": "dcd45f2c17a5672c2e6c34da438f600135c613916dbdd8b71ccc76c3e71ec53b"
+    },
+    {
+      "asset_id": "peat-p2-carbon-stock-monitoring",
+      "bytes": 1820,
+      "data_source_id": "peat-p2-carbon-stock-monitoring",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-carbon-stock-monitoring.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-carbon-stock-monitoring.json",
+      "sha256": "9a7a990671fca59efdd3b1787e6c27ef54ba70b58f96d4d35c90ef09ca9e1756"
+    },
+    {
+      "asset_id": "peat-p2-catchment-runoff",
+      "bytes": 1705,
+      "data_source_id": "peat-p2-catchment-runoff",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-catchment-runoff.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-catchment-runoff.json",
+      "sha256": "79dfb99950c4ad31df6df5ec3818866b21f3a75652161823b6972752931582b3"
+    },
+    {
+      "asset_id": "peat-p2-catchment-runoff-370",
+      "bytes": 1731,
+      "data_source_id": "peat-p2-catchment-runoff-370",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-catchment-runoff-370.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-catchment-runoff-370.json",
+      "sha256": "1c32c7c6f55682eb2c4e06f65bcd1e80f4671e174ec2ba6f39c6642b2c9b2a3e"
+    },
+    {
+      "asset_id": "peat-p2-catchment-runoff-390",
+      "bytes": 1730,
+      "data_source_id": "peat-p2-catchment-runoff-390",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-catchment-runoff-390.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-catchment-runoff-390.json",
+      "sha256": "1a0839a79f9db9165a4f16ec855bff16b058eb08b8dc4e9f392f4279c0153898"
+    },
+    {
+      "asset_id": "peat-p2-catchment-runoff-410",
+      "bytes": 1730,
+      "data_source_id": "peat-p2-catchment-runoff-410",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-catchment-runoff-410.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-catchment-runoff-410.json",
+      "sha256": "9ff6799230672aa94cacae278a0be194e9fcb05dd0a13594c409a65888ee67bc"
+    },
+    {
+      "asset_id": "peat-p2-catchment-runoff-430",
+      "bytes": 1730,
+      "data_source_id": "peat-p2-catchment-runoff-430",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-catchment-runoff-430.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-catchment-runoff-430.json",
+      "sha256": "0d60d339d26b8b08bb12160418e605445f325a4a63c8788e22754f1329ff2f38"
+    },
+    {
+      "asset_id": "peat-p2-doc-export-risk",
+      "bytes": 1771,
+      "data_source_id": "peat-p2-doc-export-risk",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-doc-export-risk.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-doc-export-risk.json",
+      "sha256": "724002afa533256f5dfb6137bda4ca8b61dbd6358772535c22ec1c77dafe105a"
+    },
+    {
+      "asset_id": "peat-p2-doc-export-risk-366",
+      "bytes": 1794,
+      "data_source_id": "peat-p2-doc-export-risk-366",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-doc-export-risk-366.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-doc-export-risk-366.json",
+      "sha256": "0f1b63744745d04a57b8c9d6403abb59a208ebd993a205f5fad3a4f43dc40671"
+    },
+    {
+      "asset_id": "peat-p2-doc-export-risk-386",
+      "bytes": 1797,
+      "data_source_id": "peat-p2-doc-export-risk-386",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-doc-export-risk-386.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-doc-export-risk-386.json",
+      "sha256": "9cc125739971d1afca29859634a744aebdb52b1df65977d39a752df54cab6c75"
+    },
+    {
+      "asset_id": "peat-p2-doc-export-risk-406",
+      "bytes": 1797,
+      "data_source_id": "peat-p2-doc-export-risk-406",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-doc-export-risk-406.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-doc-export-risk-406.json",
+      "sha256": "f22405dd8421529b7603af865b19daf3331b987fbea55a7c7e2c0130f43d5f4b"
+    },
+    {
+      "asset_id": "peat-p2-doc-export-risk-426",
+      "bytes": 1795,
+      "data_source_id": "peat-p2-doc-export-risk-426",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-doc-export-risk-426.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-doc-export-risk-426.json",
+      "sha256": "ac1e1763d76d457002aba3ea112c4b1e99c3ce6e00d37df30084bd8d5978c7c9"
+    },
+    {
+      "asset_id": "peat-p2-drain-blocking",
+      "bytes": 1763,
+      "data_source_id": "peat-p2-drain-blocking",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drain-blocking.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drain-blocking.json",
+      "sha256": "da74802bda5aae0ddbe5736099e020c5147a810ae0e24d1b65b848e8bcb1630f"
+    },
+    {
+      "asset_id": "peat-p2-drain-blocking-354",
+      "bytes": 1788,
+      "data_source_id": "peat-p2-drain-blocking-354",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drain-blocking-354.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drain-blocking-354.json",
+      "sha256": "7b1a6cea71581f04b1964cee237dc5824cac37b051cc2c3d897f219b4ac07ace"
+    },
+    {
+      "asset_id": "peat-p2-drain-blocking-374",
+      "bytes": 1788,
+      "data_source_id": "peat-p2-drain-blocking-374",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drain-blocking-374.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drain-blocking-374.json",
+      "sha256": "23f40f041cf12eb958bd1abcf7d3b82986da8aa759e8a27560f78ec6e72175b5"
+    },
+    {
+      "asset_id": "peat-p2-drain-blocking-394",
+      "bytes": 1788,
+      "data_source_id": "peat-p2-drain-blocking-394",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drain-blocking-394.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drain-blocking-394.json",
+      "sha256": "3ee8f7e599e5aa29ea7c8882981b6e6272217d20582bda9d035e0fe26525dbb5"
+    },
+    {
+      "asset_id": "peat-p2-drain-blocking-414",
+      "bytes": 1788,
+      "data_source_id": "peat-p2-drain-blocking-414",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drain-blocking-414.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drain-blocking-414.json",
+      "sha256": "98c8857f2afcc24ba2dc94065e619a84caaea8ae45cfb5c1046ce18b2af5054e"
+    },
+    {
+      "asset_id": "peat-p2-drain-blocking-434",
+      "bytes": 1788,
+      "data_source_id": "peat-p2-drain-blocking-434",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drain-blocking-434.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drain-blocking-434.json",
+      "sha256": "537d146f851ea091431722a081f040768b5f88d0e0539874f061f9038b03425d"
+    },
+    {
+      "asset_id": "peat-p2-drought-drawdown",
+      "bytes": 1773,
+      "data_source_id": "peat-p2-drought-drawdown",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drought-drawdown.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drought-drawdown.json",
+      "sha256": "f8b8babd9cba951a38e56829684f34a19112f468e7c55308483ebc9c0c8baa85"
+    },
+    {
+      "asset_id": "peat-p2-drought-drawdown-362",
+      "bytes": 1797,
+      "data_source_id": "peat-p2-drought-drawdown-362",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drought-drawdown-362.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drought-drawdown-362.json",
+      "sha256": "7e84f41b20e88cf5f30f41527d68e211fc32117810048d66967e813a9511dec1"
+    },
+    {
+      "asset_id": "peat-p2-drought-drawdown-382",
+      "bytes": 1797,
+      "data_source_id": "peat-p2-drought-drawdown-382",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drought-drawdown-382.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drought-drawdown-382.json",
+      "sha256": "0e169c6df6ddb46a3f95bb42de87d1c2e4247c10ed458ba22d55febe324eab3c"
+    },
+    {
+      "asset_id": "peat-p2-drought-drawdown-402",
+      "bytes": 1797,
+      "data_source_id": "peat-p2-drought-drawdown-402",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drought-drawdown-402.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drought-drawdown-402.json",
+      "sha256": "acba067526d28c958ca379cb9d122fb956d19cc35423b1392c89396b484f0650"
+    },
+    {
+      "asset_id": "peat-p2-drought-drawdown-422",
+      "bytes": 1796,
+      "data_source_id": "peat-p2-drought-drawdown-422",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-drought-drawdown-422.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-drought-drawdown-422.json",
+      "sha256": "5befec69a09f00a42a24e60513d0c50f1df99e357ea0346d5696b5483db2c23c"
+    },
+    {
+      "asset_id": "peat-p2-erosion-risk",
+      "bytes": 1675,
+      "data_source_id": "peat-p2-erosion-risk",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-erosion-risk.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-erosion-risk.json",
+      "sha256": "64d545a6fef49eb6779f77d570e02ec958df594cb5ce4ac9b20aa0f8a3a46163"
+    },
+    {
+      "asset_id": "peat-p2-erosion-risk-358",
+      "bytes": 1699,
+      "data_source_id": "peat-p2-erosion-risk-358",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-erosion-risk-358.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-erosion-risk-358.json",
+      "sha256": "b1008d9089ac79e5fd325a843d522c5098c0f770ea030a63ca5bd66c16ec2eb1"
+    },
+    {
+      "asset_id": "peat-p2-erosion-risk-378",
+      "bytes": 1700,
+      "data_source_id": "peat-p2-erosion-risk-378",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-erosion-risk-378.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-erosion-risk-378.json",
+      "sha256": "177e15fbc1f6ac13793565cfd2f2507a75fbf8b116599ec676fcf78c41be9643"
+    },
+    {
+      "asset_id": "peat-p2-erosion-risk-398",
+      "bytes": 1700,
+      "data_source_id": "peat-p2-erosion-risk-398",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-erosion-risk-398.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-erosion-risk-398.json",
+      "sha256": "55533c9a5147f7752052ecb210c1a0723d8419b177c7ab00a024668311d0fdad"
+    },
+    {
+      "asset_id": "peat-p2-erosion-risk-418",
+      "bytes": 1700,
+      "data_source_id": "peat-p2-erosion-risk-418",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-erosion-risk-418.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-erosion-risk-418.json",
+      "sha256": "12a40c6aaace79dae1cdee746f9b81477a3ac215d4682ac61d79a700b662bc60"
+    },
+    {
+      "asset_id": "peat-p2-groundwater-connectivity",
+      "bytes": 1780,
+      "data_source_id": "peat-p2-groundwater-connectivity",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-groundwater-connectivity.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-groundwater-connectivity.json",
+      "sha256": "f9379de4fece5cfb6068919797dbb75c4539e550f30d6807832d17e16b29d73a"
+    },
+    {
+      "asset_id": "peat-p2-groundwater-connectivity-352",
+      "bytes": 1804,
+      "data_source_id": "peat-p2-groundwater-connectivity-352",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-groundwater-connectivity-352.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-groundwater-connectivity-352.json",
+      "sha256": "6401000825f740c425063c4651df5680e86bdb30b203f64b1bf7cbbdaa9d0b42"
+    },
+    {
+      "asset_id": "peat-p2-groundwater-connectivity-372",
+      "bytes": 1805,
+      "data_source_id": "peat-p2-groundwater-connectivity-372",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-groundwater-connectivity-372.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-groundwater-connectivity-372.json",
+      "sha256": "e5bb2780946f09dcde0e88efe6cef01dfb7c7e1572e9d1d006b0151cdd1984ab"
+    },
+    {
+      "asset_id": "peat-p2-groundwater-connectivity-392",
+      "bytes": 1805,
+      "data_source_id": "peat-p2-groundwater-connectivity-392",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-groundwater-connectivity-392.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-groundwater-connectivity-392.json",
+      "sha256": "1b6ed51fb5bbd7635a4e4279c6bac2d1085bc4ec94439055638192beff84dd5d"
+    },
+    {
+      "asset_id": "peat-p2-groundwater-connectivity-412",
+      "bytes": 1805,
+      "data_source_id": "peat-p2-groundwater-connectivity-412",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-groundwater-connectivity-412.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-groundwater-connectivity-412.json",
+      "sha256": "a01ec117bf17032184900c2ab29e098b2505bcbc00cd00c1bbd66f7af2e448e2"
+    },
+    {
+      "asset_id": "peat-p2-groundwater-connectivity-432",
+      "bytes": 1805,
+      "data_source_id": "peat-p2-groundwater-connectivity-432",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-groundwater-connectivity-432.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-groundwater-connectivity-432.json",
+      "sha256": "4e2ca367266b4b6e9ef2145ae974d9c418940bdd5ff056d38a49e4897ad70c42"
+    },
+    {
+      "asset_id": "peat-p2-habitat-condition",
+      "bytes": 1753,
+      "data_source_id": "peat-p2-habitat-condition",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-habitat-condition.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-habitat-condition.json",
+      "sha256": "3bbbd65240783e42af1ac9b45cd675e66ffb085c26e203766dfc596efa171267"
+    },
+    {
+      "asset_id": "peat-p2-habitat-condition-356",
+      "bytes": 1779,
+      "data_source_id": "peat-p2-habitat-condition-356",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-habitat-condition-356.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-habitat-condition-356.json",
+      "sha256": "d34e119fbb8707195c81c0ed5f2e481288cb9c515b0134231e7465991438e9af"
+    },
+    {
+      "asset_id": "peat-p2-habitat-condition-376",
+      "bytes": 1778,
+      "data_source_id": "peat-p2-habitat-condition-376",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-habitat-condition-376.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-habitat-condition-376.json",
+      "sha256": "a053c1488c9f33e3e2221580161724fa82e3bee0835c865cdd54d78856543c67"
+    },
+    {
+      "asset_id": "peat-p2-habitat-condition-396",
+      "bytes": 1779,
+      "data_source_id": "peat-p2-habitat-condition-396",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-habitat-condition-396.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-habitat-condition-396.json",
+      "sha256": "a6eb30af21785944cdbcc918dac6ec69a4d950cf6ddfdc240f10298536f67e13"
+    },
+    {
+      "asset_id": "peat-p2-habitat-condition-416",
+      "bytes": 1779,
+      "data_source_id": "peat-p2-habitat-condition-416",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-habitat-condition-416.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-habitat-condition-416.json",
+      "sha256": "1de67a8bed2401744489897e10c2b3da107a464a45fbba9e660bdd2aa5076f41"
+    },
+    {
+      "asset_id": "peat-p2-methane-hotspot",
+      "bytes": 1754,
+      "data_source_id": "peat-p2-methane-hotspot",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-methane-hotspot.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-methane-hotspot.json",
+      "sha256": "346b68d3d18c2da72c6586dcff0f0ada7b2b0b98c194151cf98204a7f1cd24c2"
+    },
+    {
+      "asset_id": "peat-p2-methane-hotspot-364",
+      "bytes": 1777,
+      "data_source_id": "peat-p2-methane-hotspot-364",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-methane-hotspot-364.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-methane-hotspot-364.json",
+      "sha256": "c7fd66fab336e2c384a5bfbad59969ce3617a55c13dd8032b712ec81d295b14e"
+    },
+    {
+      "asset_id": "peat-p2-methane-hotspot-384",
+      "bytes": 1779,
+      "data_source_id": "peat-p2-methane-hotspot-384",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-methane-hotspot-384.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-methane-hotspot-384.json",
+      "sha256": "95acf27039266b9d3d4b0f65944fed8571d6db0d84add9d94f01b3877f9fb2de"
+    },
+    {
+      "asset_id": "peat-p2-methane-hotspot-404",
+      "bytes": 1779,
+      "data_source_id": "peat-p2-methane-hotspot-404",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-methane-hotspot-404.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-methane-hotspot-404.json",
+      "sha256": "2095537ed74f60e4947ef3247b7abe26d08438eccc7ccd9cca891aac30886430"
+    },
+    {
+      "asset_id": "peat-p2-methane-hotspot-424",
+      "bytes": 1779,
+      "data_source_id": "peat-p2-methane-hotspot-424",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-methane-hotspot-424.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-methane-hotspot-424.json",
+      "sha256": "1a4b85199c6ab662eba90165a3d5da1c375a471e24557829b5a506f58861d249"
+    },
+    {
+      "asset_id": "peat-p2-peat-subsidence",
+      "bytes": 1755,
+      "data_source_id": "peat-p2-peat-subsidence",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-peat-subsidence.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-peat-subsidence.json",
+      "sha256": "6c774fa5fd4e730e59e60284e6c564bde3bd21e7b3cc9740bbb6c8e9a2786eb7"
+    },
+    {
+      "asset_id": "peat-p2-peat-subsidence-368",
+      "bytes": 1782,
+      "data_source_id": "peat-p2-peat-subsidence-368",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-peat-subsidence-368.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-peat-subsidence-368.json",
+      "sha256": "c727f1414b9d5c4e0c2b34b78aff44b577a69e056c22519b1741515c9a06f829"
+    },
+    {
+      "asset_id": "peat-p2-peat-subsidence-388",
+      "bytes": 1782,
+      "data_source_id": "peat-p2-peat-subsidence-388",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-peat-subsidence-388.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-peat-subsidence-388.json",
+      "sha256": "f3ca6af4fe0e0958b1ad59ccb426bc6e00a6bb7804c98f97ab410f75a4985094"
+    },
+    {
+      "asset_id": "peat-p2-peat-subsidence-408",
+      "bytes": 1782,
+      "data_source_id": "peat-p2-peat-subsidence-408",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-peat-subsidence-408.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-peat-subsidence-408.json",
+      "sha256": "4931d905fe8ade1d6da86cf50f2b2166d0329ed2990281d01700065f4000a58d"
+    },
+    {
+      "asset_id": "peat-p2-peat-subsidence-428",
+      "bytes": 1783,
+      "data_source_id": "peat-p2-peat-subsidence-428",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-peat-subsidence-428.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-peat-subsidence-428.json",
+      "sha256": "eaafe4f741c1ae3b6f6a990ac83dc60ef59821c497006b2bce36d7dd805d02b6"
+    },
+    {
+      "asset_id": "peat-p2-rainfall-response",
+      "bytes": 1692,
+      "data_source_id": "peat-p2-rainfall-response",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-rainfall-response.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-rainfall-response.json",
+      "sha256": "7e463b16a81937a4deda9e54ae71b1aa4876a74db12112693f93feabe9858122"
+    },
+    {
+      "asset_id": "peat-p2-restoration-baseline",
+      "bytes": 1791,
+      "data_source_id": "peat-p2-restoration-baseline",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-restoration-baseline.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-restoration-baseline.json",
+      "sha256": "eb18199c542c7383408cb7c6bca46fbea6e82b15207b6131334bdf43ceb0ccb6"
+    },
+    {
+      "asset_id": "peat-p2-restoration-verification",
+      "bytes": 1845,
+      "data_source_id": "peat-p2-restoration-verification",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-restoration-verification.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-restoration-verification.json",
+      "sha256": "86d53303f3b8048f0ea8388b0e60260efc4d32f05081f4ee4c75ccbd9c149b99"
+    },
+    {
+      "asset_id": "peat-p2-restoration-verification-360",
+      "bytes": 1871,
+      "data_source_id": "peat-p2-restoration-verification-360",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-restoration-verification-360.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-restoration-verification-360.json",
+      "sha256": "aee7990cf65be317a4de3b116fc30a109c66a26e1619d85be961676ec09a5f85"
+    },
+    {
+      "asset_id": "peat-p2-restoration-verification-380",
+      "bytes": 1870,
+      "data_source_id": "peat-p2-restoration-verification-380",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-restoration-verification-380.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-restoration-verification-380.json",
+      "sha256": "9792e3bb3c3a6498426f943c3b53f9e0ed2cbaacb125e830777c78896a72828c"
+    },
+    {
+      "asset_id": "peat-p2-restoration-verification-400",
+      "bytes": 1871,
+      "data_source_id": "peat-p2-restoration-verification-400",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-restoration-verification-400.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-restoration-verification-400.json",
+      "sha256": "e0c600fdd44f076a832798e6dc9f6f694386dce22fa29f3e79e381a955b7e741"
+    },
+    {
+      "asset_id": "peat-p2-restoration-verification-420",
+      "bytes": 1870,
+      "data_source_id": "peat-p2-restoration-verification-420",
+      "origin": "scenario_publication",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-restoration-verification-420.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-restoration-verification-420.json",
+      "sha256": "4b6d0fd7c3f57f3e9446241fa94d71a99718ef1c8c3a17d699534ccc25734df7"
+    },
+    {
+      "asset_id": "peat-p2-rewetting-water-table",
+      "bytes": 1779,
+      "data_source_id": "peat-p2-rewetting-water-table",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-rewetting-water-table.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-rewetting-water-table.json",
+      "sha256": "cb77ea2962a9627da745ca8fa7c5a4da4b3129b4066040130369936c6547cf94"
+    },
+    {
+      "asset_id": "peat-p2-seasonal-hydroperiod",
+      "bytes": 1767,
+      "data_source_id": "peat-p2-seasonal-hydroperiod",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-seasonal-hydroperiod.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-seasonal-hydroperiod.json",
+      "sha256": "2802c15b927e0c645bd21e46a4a94f43169e1c14486d52182b2386257785f31c"
+    },
+    {
+      "asset_id": "peat-p2-soil-moisture-anomaly",
+      "bytes": 1765,
+      "data_source_id": "peat-p2-soil-moisture-anomaly",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-soil-moisture-anomaly.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-soil-moisture-anomaly.json",
+      "sha256": "3468c92b23733f18b014375e59db745d3fba3612c1456d7058006c6bc4fd13d1"
+    },
+    {
+      "asset_id": "peat-p2-sphagnum-recovery",
+      "bytes": 1752,
+      "data_source_id": "peat-p2-sphagnum-recovery",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-sphagnum-recovery.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-sphagnum-recovery.json",
+      "sha256": "cfae090683d186e9b56fb7fd8c618c89c75974e5dfd0ff17971218ed167d4147"
+    },
+    {
+      "asset_id": "peat-p2-vegetation-succession",
+      "bytes": 1801,
+      "data_source_id": "peat-p2-vegetation-succession",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-vegetation-succession.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-vegetation-succession.json",
+      "sha256": "767685756dcbf906b5b3ea0e5401374abddebb6308d94566f8e5ea393d5aeb75"
+    },
+    {
+      "asset_id": "peat-p2-wildfire-susceptibility",
+      "bytes": 1805,
+      "data_source_id": "peat-p2-wildfire-susceptibility",
+      "origin": "seeded_catalog",
+      "participant_id": "did:web:localhost%3A7793",
+      "path": "provider-p2/peat-p2-wildfire-susceptibility.json",
+      "public_url": "https://alqatf.github.io/smart-sinks-benchmark-assets/v2/provider-p2/peat-p2-wildfire-susceptibility.json",
+      "sha256": "2bc50fac3a05c581f60645ee6cf859e704aa3ae81ffcdda327560427eba727a6"
+    }
+  ],
+  "version": "public-assets-v2"
+}

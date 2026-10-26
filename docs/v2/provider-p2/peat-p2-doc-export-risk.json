@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-p2-doc-export-risk",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Dissolved organic carbon export risk governed evidence",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7793",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-doc-export-risk-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.361716,
+      "variable_label": "runoff"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-doc-export-risk-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.820735,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-doc-export-risk-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.726389,
+      "variable_label": "dissolved organic carbon context"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-doc-export-risk-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.32219,
+      "variable_label": "runoff"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-doc-export-risk-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.520333,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-doc-export-risk-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.081054,
+      "variable_label": "dissolved organic carbon context"
+    }
+  ],
+  "research_objective": "support investigation of dissolved organic carbon export risk",
+  "research_theme": "Dissolved organic carbon export risk",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "runoff",
+    "water level",
+    "dissolved organic carbon context"
+  ]
+}

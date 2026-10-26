@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-vegetation-succession-387",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Vegetation succession after rewetting evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-vegetation-succession-387-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.539313,
+      "variable_label": "hydroperiod"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-vegetation-succession-387-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.763859,
+      "variable_label": "vegetation class"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-vegetation-succession-387-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.186799,
+      "variable_label": "restoration age"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-vegetation-succession-387-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.129683,
+      "variable_label": "hydroperiod"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-vegetation-succession-387-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.111402,
+      "variable_label": "vegetation class"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-vegetation-succession-387-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.756779,
+      "variable_label": "restoration age"
+    }
+  ],
+  "research_objective": "track hydrological context for post-rewetting vegetation succession",
+  "research_theme": "Vegetation succession after rewetting",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "hydroperiod",
+    "vegetation class",
+    "restoration age"
+  ]
+}

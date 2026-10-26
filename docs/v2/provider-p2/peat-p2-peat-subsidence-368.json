@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-p2-peat-subsidence-368",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Peat subsidence risk evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7793",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-peat-subsidence-368-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.892397,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-peat-subsidence-368-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.51521,
+      "variable_label": "surface elevation context"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-peat-subsidence-368-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.278722,
+      "variable_label": "dry-period duration"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-peat-subsidence-368-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.259238,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-peat-subsidence-368-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.093865,
+      "variable_label": "surface elevation context"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-peat-subsidence-368-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.844021,
+      "variable_label": "dry-period duration"
+    }
+  ],
+  "research_objective": "assemble evidence relevant to peat subsidence and drying risk",
+  "research_theme": "Peat subsidence risk",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water level",
+    "surface elevation context",
+    "dry-period duration"
+  ]
+}

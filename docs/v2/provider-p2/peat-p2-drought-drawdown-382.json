@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-p2-drought-drawdown-382",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Drought drawdown vulnerability evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7793",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-drought-drawdown-382-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.576894,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-drought-drawdown-382-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.343327,
+      "variable_label": "precipitation deficit"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-drought-drawdown-382-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.00041,
+      "variable_label": "soil moisture"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-drought-drawdown-382-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.680563,
+      "variable_label": "water-table depth"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-drought-drawdown-382-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.608303,
+      "variable_label": "precipitation deficit"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-drought-drawdown-382-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.511396,
+      "variable_label": "soil moisture"
+    }
+  ],
+  "research_objective": "characterise peatland water-table drawdown during dry periods",
+  "research_theme": "Drought drawdown vulnerability",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water-table depth",
+    "precipitation deficit",
+    "soil moisture"
+  ]
+}

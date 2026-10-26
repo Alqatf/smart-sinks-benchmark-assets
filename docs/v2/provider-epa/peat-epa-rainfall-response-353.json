@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-rainfall-response-353",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Rainfall response lag evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-rainfall-response-353-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.262992,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-rainfall-response-353-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.365564,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-rainfall-response-353-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.428268,
+      "variable_label": "response lag"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-rainfall-response-353-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.670377,
+      "variable_label": "rainfall"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-rainfall-response-353-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.636268,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-rainfall-response-353-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.778656,
+      "variable_label": "response lag"
+    }
+  ],
+  "research_objective": "investigate lagged water-table response to rainfall",
+  "research_theme": "Rainfall response lag",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "rainfall",
+    "water level",
+    "response lag"
+  ]
+}

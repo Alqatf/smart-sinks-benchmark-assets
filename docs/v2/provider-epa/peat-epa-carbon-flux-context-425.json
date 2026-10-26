@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-carbon-flux-context-425",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Carbon-flux interpretation context evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-carbon-flux-context-425-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.795334,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-carbon-flux-context-425-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.0235,
+      "variable_label": "carbon dioxide context"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-carbon-flux-context-425-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.282698,
+      "variable_label": "temperature"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-carbon-flux-context-425-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.816135,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-carbon-flux-context-425-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.76503,
+      "variable_label": "carbon dioxide context"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-carbon-flux-context-425-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.083726,
+      "variable_label": "temperature"
+    }
+  ],
+  "research_objective": "prepare governed contextual records for carbon-flux interpretation",
+  "research_theme": "Carbon-flux interpretation context",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "water level",
+    "carbon dioxide context",
+    "temperature"
+  ]
+}

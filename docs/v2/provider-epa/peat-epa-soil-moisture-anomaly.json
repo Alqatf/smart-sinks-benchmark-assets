@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-epa-soil-moisture-anomaly",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Soil-moisture anomaly detection governed evidence",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-soil-moisture-anomaly-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.751015,
+      "variable_label": "soil moisture"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-soil-moisture-anomaly-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.266918,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-epa-soil-moisture-anomaly-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.54219,
+      "variable_label": "sensor status"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-soil-moisture-anomaly-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.275804,
+      "variable_label": "soil moisture"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-soil-moisture-anomaly-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.858068,
+      "variable_label": "water level"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-epa-soil-moisture-anomaly-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.619895,
+      "variable_label": "sensor status"
+    }
+  ],
+  "research_objective": "assemble records for peat soil-moisture anomaly assessment",
+  "research_theme": "Soil-moisture anomaly detection",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "soil moisture",
+    "water level",
+    "sensor status"
+  ]
+}

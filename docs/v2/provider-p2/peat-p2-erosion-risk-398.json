@@ -1,0 +1,59 @@
+{
+  "asset_id": "peat-p2-erosion-risk-398",
+  "measurement_note": "Dimensionless generated indices; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Peat erosion risk evidence",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7793",
+  "records": [
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-erosion-risk-398-R01",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.016103,
+      "variable_label": "runoff"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-erosion-risk-398-R02",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.927551,
+      "variable_label": "bare peat context"
+    },
+    {
+      "period_id": "T1",
+      "record_id": "peat-p2-erosion-risk-398-R03",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.492322,
+      "variable_label": "rainfall intensity"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-erosion-risk-398-R04",
+      "site_id": "SYN-01",
+      "synthetic_index": 0.368511,
+      "variable_label": "runoff"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-erosion-risk-398-R05",
+      "site_id": "SYN-02",
+      "synthetic_index": 0.456092,
+      "variable_label": "bare peat context"
+    },
+    {
+      "period_id": "T2",
+      "record_id": "peat-p2-erosion-risk-398-R06",
+      "site_id": "SYN-03",
+      "synthetic_index": 0.143397,
+      "variable_label": "rainfall intensity"
+    }
+  ],
+  "research_objective": "assemble evidence relevant to peat erosion risk",
+  "research_theme": "Peat erosion risk",
+  "synthetic_benchmark_data": true,
+  "variable_family": [
+    "runoff",
+    "bare peat context",
+    "rainfall intensity"
+  ]
+}

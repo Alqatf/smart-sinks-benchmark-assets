@@ -1,0 +1,178 @@
+{
+  "asset_id": "peat-epa-peat-subsidence",
+  "description": "Synthetic peatland-style measurement records for peat subsidence risk; illustrative variables support the benchmark objective to assemble evidence relevant to peat subsidence and drying risk. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Peat subsidence risk governed evidence (synthetic benchmark)",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "catalogSelector": "CAT-EPA-PEAT-SUBSIDENCE",
+    "evidenceRole": "primary",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "surface and groundwater monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Peat subsidence risk",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "assemble evidence relevant to peat subsidence and drying risk",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "water level, surface elevation context, dry-period duration"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 8.8,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 56.2,
+          "variable": "surface elevation context"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 4.0,
+          "variable": "dry-period duration"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-peat-subsidence-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 45.5,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 71.0,
+          "variable": "surface elevation context"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 32.0,
+          "variable": "dry-period duration"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-peat-subsidence-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 7.2,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 8.2,
+          "variable": "surface elevation context"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 15.0,
+          "variable": "dry-period duration"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-peat-subsidence-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 12.4,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 34.2,
+          "variable": "surface elevation context"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 26.0,
+          "variable": "dry-period duration"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-peat-subsidence-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 30.0,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 39.4,
+          "variable": "surface elevation context"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 26.0,
+          "variable": "dry-period duration"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-peat-subsidence-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 35.1,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 4.3,
+          "variable": "surface elevation context"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 21.0,
+          "variable": "dry-period duration"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-peat-subsidence-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

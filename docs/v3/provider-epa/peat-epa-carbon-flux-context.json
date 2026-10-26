@@ -1,0 +1,178 @@
+{
+  "asset_id": "peat-epa-carbon-flux-context",
+  "description": "Synthetic peatland-style measurement records for carbon-flux interpretation context; illustrative variables support the benchmark objective to prepare governed contextual records for carbon-flux interpretation. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Carbon-flux interpretation context governed evidence (synthetic benchmark)",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "catalogSelector": "CAT-EPA-CARBON-FLUX-CONTEXT",
+    "evidenceRole": "primary",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "flux-context and environmental monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Carbon-flux interpretation context",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "prepare governed contextual records for carbon-flux interpretation",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "water level, carbon dioxide context, temperature"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 18.8,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "g CO2 m-2 day-1",
+          "value": 0.8,
+          "variable": "carbon dioxide context"
+        },
+        {
+          "synthetic": true,
+          "unit": "deg C",
+          "value": 9.8,
+          "variable": "temperature"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-carbon-flux-context-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 42.1,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "g CO2 m-2 day-1",
+          "value": 17.1,
+          "variable": "carbon dioxide context"
+        },
+        {
+          "synthetic": true,
+          "unit": "deg C",
+          "value": 18.8,
+          "variable": "temperature"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-carbon-flux-context-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 22.9,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "g CO2 m-2 day-1",
+          "value": 15.8,
+          "variable": "carbon dioxide context"
+        },
+        {
+          "synthetic": true,
+          "unit": "deg C",
+          "value": 21.1,
+          "variable": "temperature"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-carbon-flux-context-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 5.3,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "g CO2 m-2 day-1",
+          "value": 19.2,
+          "variable": "carbon dioxide context"
+        },
+        {
+          "synthetic": true,
+          "unit": "deg C",
+          "value": 11.8,
+          "variable": "temperature"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-carbon-flux-context-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 34.2,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "g CO2 m-2 day-1",
+          "value": 12.2,
+          "variable": "carbon dioxide context"
+        },
+        {
+          "synthetic": true,
+          "unit": "deg C",
+          "value": 3.8,
+          "variable": "temperature"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-carbon-flux-context-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 6.1,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "g CO2 m-2 day-1",
+          "value": 16.5,
+          "variable": "carbon dioxide context"
+        },
+        {
+          "synthetic": true,
+          "unit": "deg C",
+          "value": 7.8,
+          "variable": "temperature"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-carbon-flux-context-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

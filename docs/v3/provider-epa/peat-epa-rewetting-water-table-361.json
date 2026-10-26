@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-epa-rewetting-water-table-361",
+  "description": "Synthetic peatland-style measurement records for rewetting water-table response; illustrative variables support the benchmark objective to assess water-table recovery after drain blocking. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Rewetting water-table response evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "benchmarkCase": "EC-0361",
+    "caseIndex": "361",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "in-situ piezometer monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Rewetting water-table response",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "assess water-table recovery after drain blocking",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "water-table depth, rainfall, drain-blocking status"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 45.3,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 4.0,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "blocked",
+          "variable": "drain-blocking status"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-rewetting-water-table-361-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 16.1,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 14.7,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "unblocked",
+          "variable": "drain-blocking status"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-rewetting-water-table-361-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 9.5,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 23.2,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "blocked",
+          "variable": "drain-blocking status"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-rewetting-water-table-361-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 52.8,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 7.1,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "unblocked",
+          "variable": "drain-blocking status"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-rewetting-water-table-361-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 27.9,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 6.7,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "partially blocked",
+          "variable": "drain-blocking status"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-rewetting-water-table-361-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 24.0,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 14.5,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "unblocked",
+          "variable": "drain-blocking status"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-rewetting-water-table-361-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

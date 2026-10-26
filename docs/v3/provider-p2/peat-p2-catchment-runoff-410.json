@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-p2-catchment-runoff-410",
+  "description": "Synthetic peatland-style measurement records for catchment runoff response; illustrative variables support the benchmark objective to investigate peatland runoff response to rainfall events. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Catchment runoff response evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7793",
+  "properties": {
+    "benchmarkCase": "EC-0410",
+    "caseIndex": "410",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "event-based catchment monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Catchment runoff response",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "investigate peatland runoff response to rainfall events",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "rainfall, runoff, water-table response"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 5.1,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 2.1,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm change per day",
+          "value": -6.6,
+          "variable": "water-table response"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-catchment-runoff-410-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 22.1,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 10.0,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm change per day",
+          "value": -6.2,
+          "variable": "water-table response"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-catchment-runoff-410-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 7.4,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 8.1,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm change per day",
+          "value": 9.2,
+          "variable": "water-table response"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-catchment-runoff-410-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 8.8,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 12.4,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm change per day",
+          "value": -5.2,
+          "variable": "water-table response"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-catchment-runoff-410-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 11.8,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 1.7,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm change per day",
+          "value": -4.8,
+          "variable": "water-table response"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-catchment-runoff-410-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 9.7,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 0.5,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm change per day",
+          "value": 8.7,
+          "variable": "water-table response"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-catchment-runoff-410-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-epa-seasonal-hydroperiod-419",
+  "description": "Synthetic peatland-style measurement records for seasonal hydroperiod comparison; illustrative variables support the benchmark objective to compare source-labelled seasonal peatland water-regime records. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Seasonal hydroperiod comparison evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "benchmarkCase": "EC-0419",
+    "caseIndex": "419",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "multi-season time-series monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Seasonal hydroperiod comparison",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "compare source-labelled seasonal peatland water-regime records",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "hydroperiod, seasonal water level, rainfall"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 168.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 24.7,
+          "variable": "seasonal water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 13.7,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-seasonal-hydroperiod-419-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 234.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 41.6,
+          "variable": "seasonal water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 8.1,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-seasonal-hydroperiod-419-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 140.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 30.2,
+          "variable": "seasonal water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 20.3,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-seasonal-hydroperiod-419-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 147.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 24.2,
+          "variable": "seasonal water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 16.8,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-seasonal-hydroperiod-419-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 284.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 10.9,
+          "variable": "seasonal water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 0.6,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-seasonal-hydroperiod-419-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 241.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 42.5,
+          "variable": "seasonal water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 3.2,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-seasonal-hydroperiod-419-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

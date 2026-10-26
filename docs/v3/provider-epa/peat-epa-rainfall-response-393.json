@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-epa-rainfall-response-393",
+  "description": "Synthetic peatland-style measurement records for rainfall response lag; illustrative variables support the benchmark objective to investigate lagged water-table response to rainfall. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Rainfall response lag evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "benchmarkCase": "EC-0393",
+    "caseIndex": "393",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "synchronised time-series monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Rainfall response lag",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "investigate lagged water-table response to rainfall",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "rainfall, water level, response lag"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 19.5,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 6.2,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "hours",
+          "value": 31.0,
+          "variable": "response lag"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-rainfall-response-393-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 8.2,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 45.3,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "hours",
+          "value": 22.0,
+          "variable": "response lag"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-rainfall-response-393-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 22.6,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 6.2,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "hours",
+          "value": 14.0,
+          "variable": "response lag"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-rainfall-response-393-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 7.3,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 29.5,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "hours",
+          "value": 42.0,
+          "variable": "response lag"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-rainfall-response-393-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 19.7,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 32.7,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "hours",
+          "value": 42.0,
+          "variable": "response lag"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-rainfall-response-393-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 21.8,
+          "variable": "rainfall"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 8.3,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "hours",
+          "value": 8.0,
+          "variable": "response lag"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-rainfall-response-393-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

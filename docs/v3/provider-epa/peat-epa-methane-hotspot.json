@@ -1,0 +1,178 @@
+{
+  "asset_id": "peat-epa-methane-hotspot",
+  "description": "Synthetic peatland-style measurement records for methane hotspot context; illustrative variables support the benchmark objective to assemble source-labelled evidence relevant to methane hotspot investigation. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Methane hotspot context governed evidence (synthetic benchmark)",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "catalogSelector": "CAT-EPA-METHANE-HOTSPOT",
+    "evidenceRole": "primary",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "co-located chamber and hydrology observations",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Methane hotspot context",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "assemble source-labelled evidence relevant to methane hotspot investigation",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "water-table depth, methane context, vegetation zone"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 25.3,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg CH4 m-2 day-1",
+          "value": 2.9,
+          "variable": "methane context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "hummock",
+          "variable": "vegetation zone"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-methane-hotspot-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 24.4,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg CH4 m-2 day-1",
+          "value": 27.1,
+          "variable": "methane context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "hummock",
+          "variable": "vegetation zone"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-methane-hotspot-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 35.5,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg CH4 m-2 day-1",
+          "value": 119.5,
+          "variable": "methane context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "hummock",
+          "variable": "vegetation zone"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-methane-hotspot-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 7.0,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg CH4 m-2 day-1",
+          "value": 61.3,
+          "variable": "methane context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "lawn",
+          "variable": "vegetation zone"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-methane-hotspot-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 24.3,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg CH4 m-2 day-1",
+          "value": 104.4,
+          "variable": "methane context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "lawn",
+          "variable": "vegetation zone"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-methane-hotspot-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 25.7,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg CH4 m-2 day-1",
+          "value": 94.1,
+          "variable": "methane context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "hollow",
+          "variable": "vegetation zone"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-methane-hotspot-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

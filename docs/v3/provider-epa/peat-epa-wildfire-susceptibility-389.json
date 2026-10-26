@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-epa-wildfire-susceptibility-389",
+  "description": "Synthetic peatland-style measurement records for peat wildfire susceptibility; illustrative variables support the benchmark objective to support governed assessment of peat wildfire susceptibility. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Peat wildfire susceptibility evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "benchmarkCase": "EC-0389",
+    "caseIndex": "389",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "near-real-time environmental monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Peat wildfire susceptibility",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "support governed assessment of peat wildfire susceptibility",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "water-table depth, soil moisture, dry-spell duration"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 49.8,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 35.1,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 17.0,
+          "variable": "dry-spell duration"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-wildfire-susceptibility-389-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 32.7,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 65.8,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 22.0,
+          "variable": "dry-spell duration"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-wildfire-susceptibility-389-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 38.7,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 66.0,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 16.0,
+          "variable": "dry-spell duration"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-wildfire-susceptibility-389-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 12.1,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 47.2,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 5.0,
+          "variable": "dry-spell duration"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-wildfire-susceptibility-389-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 4.1,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 88.4,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 24.0,
+          "variable": "dry-spell duration"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-wildfire-susceptibility-389-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 17.5,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 44.8,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "days",
+          "value": 19.0,
+          "variable": "dry-spell duration"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-wildfire-susceptibility-389-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

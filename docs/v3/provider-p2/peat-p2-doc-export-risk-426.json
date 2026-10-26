@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-p2-doc-export-risk-426",
+  "description": "Synthetic peatland-style measurement records for dissolved organic carbon export risk; illustrative variables support the benchmark objective to support investigation of dissolved organic carbon export risk. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Dissolved organic carbon export risk evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7793",
+  "properties": {
+    "benchmarkCase": "EC-0426",
+    "caseIndex": "426",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "catchment outlet and peatland monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Dissolved organic carbon export risk",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "support investigation of dissolved organic carbon export risk",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "runoff, water level, dissolved organic carbon context"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 14.7,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 5.0,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg C/L",
+          "value": 23.5,
+          "variable": "dissolved organic carbon context"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-doc-export-risk-426-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 12.0,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 34.5,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg C/L",
+          "value": 77.7,
+          "variable": "dissolved organic carbon context"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-doc-export-risk-426-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 3.2,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 7.3,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg C/L",
+          "value": 75.5,
+          "variable": "dissolved organic carbon context"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-doc-export-risk-426-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 5.5,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 3.7,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg C/L",
+          "value": 22.4,
+          "variable": "dissolved organic carbon context"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-doc-export-risk-426-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 12.8,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 14.3,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg C/L",
+          "value": 29.6,
+          "variable": "dissolved organic carbon context"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-doc-export-risk-426-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 12.8,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 13.0,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mg C/L",
+          "value": 56.0,
+          "variable": "dissolved organic carbon context"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-doc-export-risk-426-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

@@ -1,0 +1,178 @@
+{
+  "asset_id": "peat-p2-erosion-risk",
+  "description": "Synthetic peatland-style measurement records for peat erosion risk; illustrative variables support the benchmark objective to assemble evidence relevant to peat erosion risk. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Peat erosion risk governed evidence (synthetic benchmark)",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7793",
+  "properties": {
+    "catalogSelector": "CAT-P2-EROSION-RISK",
+    "evidenceRole": "independent-secondary",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "erosion-risk field monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Peat erosion risk",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "assemble evidence relevant to peat erosion risk",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "runoff, bare peat context, rainfall intensity"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 10.0,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent bare peat cover",
+          "value": 29.1,
+          "variable": "bare peat context"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/hour",
+          "value": 3.5,
+          "variable": "rainfall intensity"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-erosion-risk-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 8.5,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent bare peat cover",
+          "value": 32.7,
+          "variable": "bare peat context"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/hour",
+          "value": 3.5,
+          "variable": "rainfall intensity"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-erosion-risk-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 0.7,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent bare peat cover",
+          "value": 84.3,
+          "variable": "bare peat context"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/hour",
+          "value": 8.6,
+          "variable": "rainfall intensity"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-erosion-risk-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 2.9,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent bare peat cover",
+          "value": 5.1,
+          "variable": "bare peat context"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/hour",
+          "value": 1.2,
+          "variable": "rainfall intensity"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-erosion-risk-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 4.8,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent bare peat cover",
+          "value": 18.4,
+          "variable": "bare peat context"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/hour",
+          "value": 1.8,
+          "variable": "rainfall intensity"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-erosion-risk-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 11.8,
+          "variable": "runoff"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent bare peat cover",
+          "value": 14.0,
+          "variable": "bare peat context"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/hour",
+          "value": 11.5,
+          "variable": "rainfall intensity"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-erosion-risk-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

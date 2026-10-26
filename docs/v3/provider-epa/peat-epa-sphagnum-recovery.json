@@ -1,0 +1,178 @@
+{
+  "asset_id": "peat-epa-sphagnum-recovery",
+  "description": "Synthetic peatland-style measurement records for sphagnum recovery conditions; illustrative variables support the benchmark objective to assemble environmental context for Sphagnum recovery. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Sphagnum recovery conditions governed evidence (synthetic benchmark)",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "catalogSelector": "CAT-EPA-SPHAGNUM-RECOVERY",
+    "evidenceRole": "primary",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "ecohydrological monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Sphagnum recovery conditions",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "assemble environmental context for Sphagnum recovery",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "hydroperiod, surface wetness, vegetation condition"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 251.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent wet surface cover",
+          "value": 27.1,
+          "variable": "surface wetness"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "moderate",
+          "variable": "vegetation condition"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-sphagnum-recovery-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 284.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent wet surface cover",
+          "value": 93.1,
+          "variable": "surface wetness"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "moderate",
+          "variable": "vegetation condition"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-sphagnum-recovery-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 253.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent wet surface cover",
+          "value": 68.4,
+          "variable": "surface wetness"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "moderate",
+          "variable": "vegetation condition"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-sphagnum-recovery-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 326.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent wet surface cover",
+          "value": 77.4,
+          "variable": "surface wetness"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "poor",
+          "variable": "vegetation condition"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-sphagnum-recovery-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 208.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent wet surface cover",
+          "value": 34.9,
+          "variable": "surface wetness"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "moderate",
+          "variable": "vegetation condition"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-sphagnum-recovery-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "days/year",
+          "value": 218.0,
+          "variable": "hydroperiod"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent wet surface cover",
+          "value": 44.7,
+          "variable": "surface wetness"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "good",
+          "variable": "vegetation condition"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-sphagnum-recovery-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

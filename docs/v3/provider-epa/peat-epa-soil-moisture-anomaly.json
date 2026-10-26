@@ -1,0 +1,178 @@
+{
+  "asset_id": "peat-epa-soil-moisture-anomaly",
+  "description": "Synthetic peatland-style measurement records for soil-moisture anomaly detection; illustrative variables support the benchmark objective to assemble records for peat soil-moisture anomaly assessment. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Soil-moisture anomaly detection governed evidence (synthetic benchmark)",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "catalogSelector": "CAT-EPA-SOIL-MOISTURE-ANOMALY",
+    "evidenceRole": "primary",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "quality-controlled sensor observations",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Soil-moisture anomaly detection",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "assemble records for peat soil-moisture anomaly assessment",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "soil moisture, water level, sensor status"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 53.0,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 19.2,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "simulated-checked",
+          "variable": "sensor status"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-soil-moisture-anomaly-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 47.6,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 3.5,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "simulated-checked",
+          "variable": "sensor status"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-soil-moisture-anomaly-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 74.5,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 20.1,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "simulated-checked",
+          "variable": "sensor status"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-soil-moisture-anomaly-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 39.3,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 9.0,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "simulated-checked",
+          "variable": "sensor status"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-soil-moisture-anomaly-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 56.4,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 17.5,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "simulated-valid",
+          "variable": "sensor status"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-soil-moisture-anomaly-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 60.9,
+          "variable": "soil moisture"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 44.5,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "simulated-valid",
+          "variable": "sensor status"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-soil-moisture-anomaly-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

@@ -1,0 +1,178 @@
+{
+  "asset_id": "peat-epa-drought-drawdown",
+  "description": "Synthetic peatland-style measurement records for drought drawdown vulnerability; illustrative variables support the benchmark objective to characterise peatland water-table drawdown during dry periods. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Drought drawdown vulnerability governed evidence (synthetic benchmark)",
+  "origin": "seeded_catalog",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "catalogSelector": "CAT-EPA-DROUGHT-DRAWDOWN",
+    "evidenceRole": "primary",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "sensor time-series monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Drought drawdown vulnerability",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "characterise peatland water-table drawdown during dry periods",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "water-table depth, precipitation deficit, soil moisture"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 31.6,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm over 30 days",
+          "value": 2.5,
+          "variable": "precipitation deficit"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 47.8,
+          "variable": "soil moisture"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-drought-drawdown-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 47.6,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm over 30 days",
+          "value": 57.7,
+          "variable": "precipitation deficit"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 66.9,
+          "variable": "soil moisture"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-drought-drawdown-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 17.2,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm over 30 days",
+          "value": 27.6,
+          "variable": "precipitation deficit"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 61.2,
+          "variable": "soil moisture"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-drought-drawdown-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 7.6,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm over 30 days",
+          "value": 61.3,
+          "variable": "precipitation deficit"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 36.0,
+          "variable": "soil moisture"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-drought-drawdown-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 15.4,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm over 30 days",
+          "value": 42.1,
+          "variable": "precipitation deficit"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 69.3,
+          "variable": "soil moisture"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-drought-drawdown-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 16.0,
+          "variable": "water-table depth"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm over 30 days",
+          "value": 2.6,
+          "variable": "precipitation deficit"
+        },
+        {
+          "synthetic": true,
+          "unit": "percent volumetric water content",
+          "value": 79.8,
+          "variable": "soil moisture"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-drought-drawdown-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

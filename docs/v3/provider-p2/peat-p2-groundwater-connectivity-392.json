@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-p2-groundwater-connectivity-392",
+  "description": "Synthetic peatland-style measurement records for groundwater connectivity; illustrative variables support the benchmark objective to support analysis of peatland and groundwater connectivity. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Groundwater connectivity evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7793",
+  "properties": {
+    "benchmarkCase": "EC-0392",
+    "caseIndex": "392",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "paired piezometer monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Groundwater connectivity",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "support analysis of peatland and groundwater connectivity",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "groundwater head, peat water level, rainfall"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 0.5,
+          "variable": "groundwater head"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 16.9,
+          "variable": "peat water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 13.6,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-groundwater-connectivity-392-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 18.8,
+          "variable": "groundwater head"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 7.5,
+          "variable": "peat water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 14.7,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-groundwater-connectivity-392-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 16.6,
+          "variable": "groundwater head"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 8.5,
+          "variable": "peat water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 21.7,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-p2-groundwater-connectivity-392-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": -15.4,
+          "variable": "groundwater head"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 47.8,
+          "variable": "peat water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 13.6,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-groundwater-connectivity-392-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 2.4,
+          "variable": "groundwater head"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 15.8,
+          "variable": "peat water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 10.7,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-groundwater-connectivity-392-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm relative to synthetic datum",
+          "value": 15.1,
+          "variable": "groundwater head"
+        },
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 10.3,
+          "variable": "peat water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "mm/day",
+          "value": 3.4,
+          "variable": "rainfall"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-p2-groundwater-connectivity-392-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

@@ -1,0 +1,179 @@
+{
+  "asset_id": "peat-epa-carbon-stock-monitoring-357",
+  "description": "Synthetic peatland-style measurement records for carbon-stock monitoring context; illustrative variables support the benchmark objective to support governed carbon-stock monitoring without exposing raw sensitive locations. No field observations or scientific estimates are supplied.",
+  "generation_method": "SHA-256-seeded bounded synthetic values; no field or process-model calibration",
+  "measurement_note": "Illustrative peatland-style values for workflow testing only; not field measurements or scientific estimates.",
+  "name": "SMART-SINKS Carbon-stock monitoring context evidence (synthetic benchmark)",
+  "origin": "scenario_publication",
+  "participant_id": "did:web:localhost%3A7593",
+  "properties": {
+    "benchmarkCase": "EC-0357",
+    "caseIndex": "357",
+    "evidenceRole": "controlled-publication",
+    "measurementSchema": "synthetic-peatland-measurements-v3",
+    "methodology": "stratified peatland monitoring",
+    "methodologyStatus": "simulated benchmark context",
+    "peatlandResearchTheme": "Carbon-stock monitoring context",
+    "qualityLevel": "schema-validated synthetic benchmark measurements",
+    "researchObjective": "support governed carbon-stock monitoring without exposing raw sensitive locations",
+    "spatialCoverage": "three synthetic Irish peatland site labels",
+    "syntheticBenchmarkData": "true",
+    "temporalCoverage": "two synthetic seasonal dates (2024-03-15 and 2024-09-15)",
+    "theme": "SMART-SINKS peatland monitoring",
+    "updateFrequency": "fixed synthetic benchmark snapshot",
+    "variableFamily": "water level, peat depth context, land condition"
+  },
+  "records": [
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 19.7,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "m",
+          "value": 3.4,
+          "variable": "peat depth context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "drained",
+          "variable": "land condition"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-carbon-stock-monitoring-357-2024-03-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 15.9,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "m",
+          "value": 1.2,
+          "variable": "peat depth context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "undisturbed",
+          "variable": "land condition"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-carbon-stock-monitoring-357-2024-03-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 17.7,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "m",
+          "value": 4.4,
+          "variable": "peat depth context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "undisturbed",
+          "variable": "land condition"
+        }
+      ],
+      "observed_at": "2024-03-15",
+      "record_id": "peat-epa-carbon-stock-monitoring-357-2024-03-15-S03",
+      "site_id": "SYN-IE-03"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 43.1,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "m",
+          "value": 2.7,
+          "variable": "peat depth context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "undisturbed",
+          "variable": "land condition"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-carbon-stock-monitoring-357-2024-09-15-S01",
+      "site_id": "SYN-IE-01"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 41.7,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "m",
+          "value": 3.7,
+          "variable": "peat depth context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "rewetted",
+          "variable": "land condition"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-carbon-stock-monitoring-357-2024-09-15-S02",
+      "site_id": "SYN-IE-02"
+    },
+    {
+      "observations": [
+        {
+          "synthetic": true,
+          "unit": "cm below synthetic peat surface",
+          "value": 14.8,
+          "variable": "water level"
+        },
+        {
+          "synthetic": true,
+          "unit": "m",
+          "value": 4.0,
+          "variable": "peat depth context"
+        },
+        {
+          "synthetic": true,
+          "unit": "category",
+          "value": "rewetted",
+          "variable": "land condition"
+        }
+      ],
+      "observed_at": "2024-09-15",
+      "record_id": "peat-epa-carbon-stock-monitoring-357-2024-09-15-S03",
+      "site_id": "SYN-IE-03"
+    }
+  ],
+  "synthetic_benchmark_data": true
+}

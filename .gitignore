@@ -1,10 +1,2 @@
 .DS_Store
 ._*
-*** Add File: smart-sinks-benchmark-assets-publish/docs/index.html
-<!doctype html>
-<html lang="en">
-<meta charset="utf-8">
-<title>SMART-SINKS synthetic benchmark assets</title>
-<h1>SMART-SINKS synthetic benchmark assets</h1>
-<p><a href="v2/">Version 2 synthetic JSON assets</a></p>
-<p>Generated benchmark fixtures; not field observations or scientific estimates.</p>
